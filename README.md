@@ -19,5 +19,6 @@ Clique na pasta do comandos que você queira copiar
 #
 ⊱⋅ ──────────── ⋅⊰
 * **[👑Ducke Suporte👑](https://discord.gg/twc8uw8v9M)**
-* **[🐈GitHub repositórios](https://github.com/AshunTanaka/Carmona)**
+* **[🐈GitHub repositórios](https://github.com/AshunTanaka/Carmona)** 
+
 ⊱⋅ ──────────── ⋅⊰
