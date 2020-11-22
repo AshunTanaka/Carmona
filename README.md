@@ -17,8 +17,8 @@ Clique na pasta do comandos que você queira copiar
 # Lembrete:
 * Nunca traduza o Site, Ultilize sempre na linguagem <i> <b> padrão (inglês). </b> </i>
 #
-⊱⋅ ──────────── ⋅⊰
+<div align="center"> ⊱⋅ ──────────── ⋅⊰ </div>
 * **[👑Ducke Suporte👑](https://discord.gg/twc8uw8v9M)**
 * **[🐈GitHub repositórios](https://github.com/AshunTanaka/Carmona)** 
 
-⊱⋅ ──────────── ⋅⊰
+<div align="center"> ⊱⋅ ──────────── ⋅⊰ </div>
