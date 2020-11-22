@@ -1,0 +1,17 @@
+$nomention
+$color[$random[FFF400]]
+$botTyping
+$thumbnail[$serverIcon]
+$title[**__🥖 | Daily __**]
+$description[
+<@$authorID> Você resgatou sua recompensa diária! Valor recebido Foi **$random[50;100]** __Money!__
+]
+
+$footerIcon[$authorAvatar]
+$footer[$username#$discriminator[$authorID]]
+$addTimestamp
+
+$cooldown[12h; <@$authorID> Você já resgatou sua recompensa diária! por favor espere %time% para resgatar sua próxima recompensa!]
+
+$setUserVar[cookie;$sum[$getUserVar[money];$random[50;100]]]
+$deletecommand
