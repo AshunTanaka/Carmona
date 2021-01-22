@@ -1,0 +1,12 @@
+$nomention
+$color[3c2261]
+
+$onlyAdmin[❌ | <@$authorID> | Somentes Administradores podem usar este comando!]
+
+$setUserVar[bank;$sum[$getUserVar[bank];$message]]
+
+✅ | <@$authorID> | O seus Kanix foram adicionados a sua conta do banco!
+
+Quantidade adicionada: $message
+
+$deletecommand
